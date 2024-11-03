@@ -28,7 +28,7 @@
     "@openzeppelin/contracts-upgradeable": "^4.3.1",
     "await-sleep": "0.0.1",
     "commander": "^3.0.1",
-    "elliptic": ">=6.5.3",
+    "elliptic": ">=6.6.0",
     "ethereum-input-data-decoder": "0.3.0",
     "lodash": ">=4.17.19",
     "mem": ">=4.0.0",
